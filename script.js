@@ -1,0 +1,10 @@
+let a = 5;
+let b = 2;
+console.log(a,b);
+let str = "ciao";
+console.log(str);
+str = "1234";
+console.log(str);
+const PIGRECO = 3.14159265359;
+console.log(PIGRECO);
+PIGRECO = 0;
